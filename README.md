@@ -1,0 +1,2 @@
+# proyecto
+inicializacion en github
